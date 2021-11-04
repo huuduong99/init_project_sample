@@ -1,0 +1,11 @@
+{
+  "hello": "Xin chào",
+  "login": "Đăng nhập",
+  "userName": "Tên đăng nhập",
+  "enterUsername": "Nhập tên đăng nhập",
+  "password": "Mật khẩu",
+  "enterPassword": "Nhập mật khẩu",
+  "forgotPassword": "Quên mật khẩu?",
+  "youDoNotHaveAccount": "Bạn chưa có tài khoản?",
+  "register": "Đăng ký"
+}

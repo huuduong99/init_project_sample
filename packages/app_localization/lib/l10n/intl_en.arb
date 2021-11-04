@@ -1,0 +1,11 @@
+{
+  "hello": "Hello",
+  "login": "Login",
+  "userName": "Username",
+  "enterUsername": "Enter your username",
+  "password": "Password",
+  "enterPassword": "Enter your password",
+  "forgotPassword": "Forgot password?",
+  "youDoNotHaveAccount": "You dont't have an account?",
+  "register": "Register"
+}
